@@ -1,7 +1,7 @@
 # Sales Performance Dashboard Using Power-Pivot and DAX
 This project involves an interactive and insightful sales performance dashboard by integrating data from Excel files and an MSSQL database.
 
-### Overview
+## Overview
 This project demonstrates the creation of a sales performance dashboard leveraging Power Pivot in Excel,DAX calculations, and a star schema data model. The dashboard provides actionable insigts into sales trends, regional performance, sales team efficiency, and product demand.
 Key features incude:
 * Integration of sales,product,geography,and personnel dat into a unified data model.
