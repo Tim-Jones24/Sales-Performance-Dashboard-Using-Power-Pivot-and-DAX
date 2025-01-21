@@ -72,7 +72,7 @@ The data is organized into star schema, consisting of:
 
   #### Recommendations
   1. **Regional Optimization:**
-     * More investment should be tailored to regions with higher average sales (APAC or America) while exploring startegies to bosst Europe performance.
+     * More investment should be tailored to regions with higher average sales (APAC or America) while exploring startegies to boost Europe performance.
   2. **Product Demand Forecasting:**
      * Focus production and marketing efforts on the top three products to align with customer demand. 
   3. **Sales Team Development:**
